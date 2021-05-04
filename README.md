@@ -60,6 +60,7 @@ Important Links:
 2.   Youtube video:<br>
 3.   My website: <a href="https://vishwanaik15.github.io/Acedemic/">https://vishwanaik15.github.io/Acedemic/</a><br>
 4.   Blog: <a href=""></a>
+5.   Notebook: <a href="https://colab.research.google.com/drive/19B-tG-UV6mu9Im7TkJfcEXBcqBDw-aAt?usp=sharing">https://colab.research.google.com/drive/19B-tG-UV6mu9Im7TkJfcEXBcqBDw-aAt?usp=sharing</a>
 
 <br>
 
@@ -108,8 +109,21 @@ Contributions
 
 References:
 ---
-
-
+1.https://www.kaggle.com/satyamkryadav/multiclass-mobilesentiments-83
+2.Dataset Reading:https://towardsdatascience.com/loading-large-datasets-in-pandas-11bdddd36f7b
+3.Data preprocessing:https://scikit-learn.org/stable/modules/preprocessing.html
+4.Text classification:https://www.nltk.org/
+5.Vectorizing using Scikit-learn API's:https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
+6.Vectorizing using Scikit-learn API's:https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html
+7.Naive Bayes:https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html
+8.Linear support vector Machine:https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html
+9.Rigid Classifier:https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeClassifier.html
+10.Confusion Matrix:https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
+11.Accuracy score:https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html
+12.F1 Score:https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html
+13.Heatmap: https://seaborn.pydata.org/
+14.Application Sketch:https://proto.io/
+15.
 
 
 
