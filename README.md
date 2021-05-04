@@ -18,7 +18,7 @@ The Aim of a project to recommend a mobile phone using classification methods on
 
 <h2>Libraries used in project</h2>
 <ul>
-<li>train_test_split:To split data in to train and test.(I have split data in to 80:20 ratio</li>
+<li>train_test_split:To split data in to train and test.(I have split data in to 80:20 ratio)</li>
 <li>TfidfVectorizer:Convert a collection of raw documents to a matrix of TF-IDF features.</li>
 <li>TfidfTransformer:Transform a count matrix to a normalized tf or tf-idf representation</li>
 <li>MultinomialNB: The multinomial distribution normally requires integer feature counts. However, in practice, fractional counts such as tf-idf may</li>
