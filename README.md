@@ -7,12 +7,15 @@
 Aim of this project:<br>
 ---
 
-The Aim of a project to recommend a mobile phone using classifaction methods on 1.4 million cell phone reviews dataset.It has two major classification models
+The Aim of a project to recommend a mobile phone using classifaction methods on 1.4 million cell phone reviews dataset.I have used three classifiers. 
 <ul><li>Linear Support vector machine</li>
-<li>Rigid classifier</li></ul>
-I have also used other two classifer further to make my model more accurate.
-<ul><li>KNN</li>
-<li>Logistic Regression</li></ul><br><br>
+<li>Rigid classifier</li>
+<li>>K nearest neighbours<br></li></ul>
+
+<h2>Libraries used in project</h2>
+<ul>
+<li>train_test_split:</li>
+
 
 Method:
 ---
@@ -20,19 +23,19 @@ Here , I have performed my project on google colaboratory but if you want to per
 
 1.Used pandas datafram to read dataset.(data.csv)
 
-2.Perfomed data pre processing.
+2.Perfomed data pre processing.<br>
 Dara preprocessing is most crucial task in text analysis as well as in deep learning tasks. 
 If you do not perform any pre processing on your raw data, then it will affect your model's performance and to your final result. Generally, in this step we remove emojis, stop words, some rare occurring words from text.
 Also lower capitalization and tokenization are performed.
 In preprocessing, I removed all the rows having no values in comment column, as without comment value there is nothing to predict.
 To remove stop words from comments, first, I tokenized those comments using tokenizer tool provided by Natural Language toolkit (NLTK), and then removed those stop words. In nltk, there is one class "corpus" which contains list of these stop words. Along with them, comments are also converted into lower alphabets using lower() function.<br>
 
-3.Data Visualization.
+3.Data Visualization.<br>
 For data Visualization I have used matplotlib, seaborn libraries. Data is postulated by heatmap, bar graph.
 
 4.Divide data in to train and test. For this I have used Train-Test-Split function.
 
-5.Model for classification.
+5.Model for classification.<br>
 From many classification models like:Naive Bayes, Support vector machine, random forest, ridge regression, linear regression, etc.
 I have used linear support vector machine, KNN and rigid classifier.
 
@@ -44,8 +47,8 @@ Important Links:
 ---
 1.   GitHub: 
 2.   Youtube video:<br>
-3. My website: 
-4. Blog: 
+3.   My website: 
+4.   Blog: 
 
 <br>
 
@@ -54,30 +57,11 @@ Important Links:
 
 <h2>Classifiers in this project:</h2>
 
-
->2.. Ridge Classifier
-
-This classifier first converts the target values into {-1, 1} and then treats the problem as a regression task (multi-output regression in the multiclass case). The L2 norm term in ridge regression is weighted by the regularization parameter alpha. So, if the alpha value is 0, it means that it is just an Ordinary Least Squares Regression model. So, the larger is the alpha, the higher is the smoothness constraint.
-
-<br>
+>1.Linear Support Vector<br>
+>2.Ridge Classifier<br>
+>3.k nearest neighbours<br>
 
 
-
->4. k nearest neighbours<br>
-
-kNN is easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems. The KNN algorithm assumes that similar things exist in close proximity. In other words, similar things are near to each other. To select the K that’s right for your data, we run the KNN algorithm several times with different values of K and choose the K that reduces the number of errors we encounter while maintaining the algorithm’s ability to accurately make predictions when it’s given data it hasn’t seen before.
-<br>
-
-
-
->Ensemble methods<br>
-
-Ensemple method is machine learning trechnique which improves accuracy of algorithm by combining two or more individual algorithms for same dataset. There are many techniques by which we can perform ensembling of multiple classifier. Like, Bagging, boosting, usinf random forests, etc. But here I am using weighted voting over three classifiers.<br>
-<br><br>
-Below is the **architecture** of working of ensemble methods.<br>
-![alt text](https://miro.medium.com/max/1400/0*PBGJw23ud8Sp7qO4.)
-
-<br>
 Difference over References:
 ---
 
