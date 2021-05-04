@@ -11,7 +11,7 @@ The Aim of a project to recommend a mobile phone using classifaction methods on 
 
 <ul><li>Linear Support vector machine</li>
 <li>Rigid classifier</li>
-<li>>Navie Bayes<br></li></ul>
+<li>Navie Bayes<br></li></ul>
 <h2>Dataset Used</h2>
 <ul><li>1.4 million cell phone reviews</li>
 <li><a href="https://www.kaggle.com/masaladata/14-million-cell-phone-reviews">https://www.kaggle.com/masaladata/14-million-cell-phone-reviews</a></li></ul>
