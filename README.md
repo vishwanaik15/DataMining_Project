@@ -7,7 +7,7 @@
 Aim of this project:<br>
 ---
 
-The Aim of a project to recommend a mobile phone using classifaction methods on 1.4 million cell phone reviews dataset.I have used three classifiers. 
+The Aim of a project to recommend a mobile phone using classification methods on 1.4 million cell phone reviews dataset.I have used three classifiers. 
 
 <ul><li>Linear Support vector machine</li>
 <li>Rigid classifier</li>
