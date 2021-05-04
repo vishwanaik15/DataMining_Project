@@ -48,7 +48,7 @@ For data Visualization I have used matplotlib, seaborn libraries. Data is postul
 
 5.Model for classification.<br>
 From many classification models like:Naive Bayes, Support vector machine, random forest, ridge regression, linear regression, etc.
-I have used linear support vector machine, KNN and rigid classifier.
+I have used linear support vector machine, Navie bayes and rigid classifier.
 
 6.Performance evaluation of algorithms:
 We must know how our algorithm is working. For that purpose, some accuracy measures, error measurement techniques are used.
