@@ -59,7 +59,7 @@ Important Links:
 1.   GitHub: <a href="https://github.com/vishwanaik15/DataMining_Project">https://github.com/vishwanaik15/DataMining_Project</a><br>
 2.   Youtube video:<br>
 3.   My website: <a href="https://vishwanaik15.github.io/Acedemic/">https://vishwanaik15.github.io/Acedemic/</a><br>
-4.   Blog: <a href="https://vishwanaik15.github.io/Acedemic/blog3.html"></a>
+4.   Blog: <a href="https://vishwanaik15.github.io/Acedemic/blog3.html">https://vishwanaik15.github.io/Acedemic/blog3.html</a>
 5.   Notebook: <a href="https://colab.research.google.com/drive/19B-tG-UV6mu9Im7TkJfcEXBcqBDw-aAt?usp=sharing">https://colab.research.google.com/drive/19B-tG-UV6mu9Im7TkJfcEXBcqBDw-aAt?usp=sharing</a>
 
 <br>
