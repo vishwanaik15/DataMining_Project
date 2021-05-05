@@ -61,6 +61,7 @@ Important Links:
 3.   My website: <a href="https://vishwanaik15.github.io/Acedemic/">https://vishwanaik15.github.io/Acedemic/</a><br>
 4.   Blog: <a href="https://vishwanaik15.github.io/Acedemic/blog3.html">https://vishwanaik15.github.io/Acedemic/blog3.html</a>
 5.   Notebook: <a href="https://colab.research.google.com/drive/19B-tG-UV6mu9Im7TkJfcEXBcqBDw-aAt?usp=sharing">https://colab.research.google.com/drive/19B-tG-UV6mu9Im7TkJfcEXBcqBDw-aAt?usp=sharing</a>
+6.   Kaggle Notebook:<a href="https://www.kaggle.com/vishwanaik/data-mining-term-project">https://www.kaggle.com/vishwanaik/data-mining-term-project</a><br>
 
 <br>
 
