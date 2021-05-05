@@ -86,7 +86,7 @@ Challenged Faced:
 ---
 The dataset was having different csv files I merges all files in single and made a dataset big enoughr for analysis.<br>
 
-The dataset was too large for the systems we are using, so I need to pre process data first in order to use it for training and testing. For pre processing I had to use case lowering, tokenization, regular expression for alphabets, punctuation removal and removing stop words.<br>
+The dataset was too large for the systems I am using, so I had to pre process data first in order to use it for training and testing. For pre processing I had used case lowering, tokenization, regular expression for alphabets, punctuation removal and removing stop words.<br>
 
 The reference I used has torch but I used Clssifieres.
 
